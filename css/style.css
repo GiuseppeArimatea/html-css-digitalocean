@@ -56,6 +56,10 @@ section h3 {
   background-position: center;
 }
 
+.ham_style {
+  font-size: 28px;
+}
+
 
 ul.nav_list li a {
   text-decoration: none;
